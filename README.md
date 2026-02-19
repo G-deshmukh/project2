@@ -7,3 +7,7 @@ Created by Ganesh Deshmukh HEHE.
 # Name 
 
 Ganesh Pratap Deshmukh
+
+# About project 
+
+soo basically this project is for a solving problem of farmers
